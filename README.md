@@ -377,11 +377,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Links
 
-- **🌐 Portfolio**: [your-portfolio.com](https://your-portfolio.com)
-- **💼 LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **🌐 Portfolio**: [TezTar Support](https://www.teztarsupport.com/)
+- **💼 LinkedIn**: [linkedin.com/in/ghulammustafashad](https://www.linkedin.com/in/ghulammustafashad/)
+- **📘 Facebook**: [facebook.com/profile.php?id=61578186405085](https://www.facebook.com/profile.php?id=61578186405085)
 - **🐙 GitHub**: [github.com/ghulamshad](https://github.com/ghulamshad)
-- **📧 Email**: your.email@example.com
-- **📱 Twitter**: [@yourusername](https://twitter.com/yourusername)
+- **📱 Phone**: +92 321 813 0673
 
 ## 🙏 Acknowledgments
 
@@ -402,6 +402,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![GitHub issues](https://img.shields.io/github/issues/ghulamshad/social-scheduler-mvp)](https://github.com/ghulamshad/social-scheduler-mvp/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/ghulamshad/social-scheduler-mvp)](https://github.com/ghulamshad/social-scheduler-mvp/pulls)
 
-**Made with ❤️ by Mustafa Shad**
+**Made with ❤️ by Ghulam Mustafa Shad**
 
 </div> 
