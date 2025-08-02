@@ -62,7 +62,7 @@ sudo chown -R $USER:$USER /var/www/social-scheduler-api
 
 # Clone repository
 cd /var/www/social-scheduler-api
-git clone https://github.com/yourusername/social-scheduler.git .
+git clone https://github.com/ghulamshad/social-scheduler-mvp.git .
 cd social-scheduler-api
 
 # Install dependencies

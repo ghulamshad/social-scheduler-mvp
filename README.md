@@ -17,32 +17,27 @@
 
 <details>
 <summary>🖥️ Dashboard Overview</summary>
-<img src="screenshots/dashboard.png" alt="Dashboard" width="800"/>
+<img src="public/assets/dashboard.png" alt="Dashboard" width="800"/>
 </details>
 
 <details>
-<summary>🤖 AI Content Generator</summary>
-<img src="screenshots/ai-generator.png" alt="AI Generator" width="800"/>
+<summary>🔐 Login & Authentication</summary>
+<img src="public/assets/login.png" alt="Login" width="800"/>
 </details>
 
 <details>
-<summary>📊 Analytics Dashboard</summary>
-<img src="screenshots/analytics.png" alt="Analytics" width="800"/>
+<summary>📝 Posts Management</summary>
+<img src="public/assets/posts.png" alt="Posts" width="800"/>
 </details>
 
 <details>
-<summary>👥 Team Management</summary>
-<img src="screenshots/team-management.png" alt="Team Management" width="800"/>
+<summary>📅 Scheduler Interface</summary>
+<img src="public/assets/shedular.png" alt="Scheduler" width="800"/>
 </details>
 
 <details>
-<summary>📅 Content Calendar</summary>
-<img src="screenshots/calendar.png" alt="Content Calendar" width="800"/>
-</details>
-
-<details>
-<summary>📱 Mobile Responsive</summary>
-<img src="screenshots/mobile-responsive.png" alt="Mobile View" width="400"/>
+<summary>👥 Social Media Accounts</summary>
+<img src="public/assets/accounts.png" alt="Accounts" width="800"/>
 </details>
 
 ## 🎯 Project Overview
@@ -201,8 +196,8 @@ Users ────┬─── Posts ────┬─── Accounts
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/yourusername/social-scheduler.git
-   cd social-scheduler
+   git clone https://github.com/ghulamshad/social-scheduler-mvp.git
+   cd social-scheduler-mvp
    ```
 
 2. **Backend Setup**
@@ -384,7 +379,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **🌐 Portfolio**: [your-portfolio.com](https://your-portfolio.com)
 - **💼 LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **🐙 GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **🐙 GitHub**: [github.com/ghulamshad](https://github.com/ghulamshad)
 - **📧 Email**: your.email@example.com
 - **📱 Twitter**: [@yourusername](https://twitter.com/yourusername)
 
@@ -402,10 +397,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you found it helpful!**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/social-scheduler?style=social)](https://github.com/yourusername/social-scheduler)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/social-scheduler?style=social)](https://github.com/yourusername/social-scheduler)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/social-scheduler)](https://github.com/yourusername/social-scheduler/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/social-scheduler)](https://github.com/yourusername/social-scheduler/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/ghulamshad/social-scheduler-mvp?style=social)](https://github.com/ghulamshad/social-scheduler-mvp)
+[![GitHub forks](https://img.shields.io/github/forks/ghulamshad/social-scheduler-mvp?style=social)](https://github.com/ghulamshad/social-scheduler-mvp)
+[![GitHub issues](https://img.shields.io/github/issues/ghulamshad/social-scheduler-mvp)](https://github.com/ghulamshad/social-scheduler-mvp/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/ghulamshad/social-scheduler-mvp)](https://github.com/ghulamshad/social-scheduler-mvp/pulls)
 
 **Made with ❤️ by Mustafa Shad**
 

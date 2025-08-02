@@ -1243,7 +1243,7 @@ For API support and questions:
 - **Email**: api-support@your-domain.com
 - **Documentation**: https://your-domain.com/docs/api
 - **Status Page**: https://status.your-domain.com
-- **GitHub Issues**: https://github.com/yourusername/social-scheduler/issues
+- **GitHub Issues**: https://github.com/ghulamshad/social-scheduler-mvp/issues
 
 ---
 

@@ -32,8 +32,8 @@ brew install redis mysql
 ### 1. Clone Repository
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/social-scheduler.git
-cd social-scheduler
+git clone https://github.com/ghulamshad/social-scheduler-mvp.git
+cd social-scheduler-mvp
 
 # Checkout development branch
 git checkout develop
